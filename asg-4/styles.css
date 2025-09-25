@@ -4,6 +4,6 @@ h1, h2 {
 p, ul, table {
 	font-family: "Source Code Pro", monospace; 
 }
-body {
-    display: table-cell; vertical-align: middle;
+html.center-me {
+  width: 80%; margin: 0 auto;
 }
