@@ -4,6 +4,3 @@ h1, h2 {
 p, ul, table {
 	font-family: "Source Code Pro", monospace; 
 }
-html.center-me {
-  width: 80%; margin: 0 auto;
-}
