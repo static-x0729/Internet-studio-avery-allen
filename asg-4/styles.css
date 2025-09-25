@@ -4,10 +4,6 @@ h1, h2 {
 p, ul, table {
 	font-family: "Source Code Pro", monospace; 
 }
-html {
-    display: table; margin: auto;
-}
-
 body {
     display: table-cell; vertical-align: middle;
 }
