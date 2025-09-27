@@ -1,5 +1,6 @@
-/* styles.css */
-
-* {
-	font-family: Arial;
+h1, h2, h3 {
+	 font-family: "Lustria", serif;
+}
+p, ul, ol, {
+	 font-family: "Lato", sans-serif;
 }
