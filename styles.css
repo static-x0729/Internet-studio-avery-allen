@@ -1,6 +1,6 @@
 h1, h2, h3 {
 	 font-family: "Lustria", serif;
-	color: rgb(137, 138, 196);
+	color: rgb(241, 239, 236);
 	border-bottom: 2px solid rgb(137, 138, 196);
 	padding-top: 10px;
 	padding-bottom: 5px;
@@ -9,7 +9,7 @@ h1, h2, h3 {
 p, ul, ol {
 	 font-family: "Lato", Arial, sans-serif;
 	font-size: 1em;
-	color: rgb(212, 201, 190);
+	color: rgb(241, 239, 236);
 	  margin: 10px 30px;
 }
 body {
@@ -20,5 +20,5 @@ body {
 }
 html {
 	padding-top: 25px; 
-	background-color: rgb(255, 242, 224);
+	background-color: rgb(241, 239, 236);
 }
