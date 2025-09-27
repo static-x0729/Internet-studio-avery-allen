@@ -3,7 +3,8 @@ h1, h2, h3 {
 	color:rgb(137, 138, 196);
 }
 p, ul, ol {
-	 font-family: "Lato", sans-serif;
+	 font-family: "Lato", Arial, sans-serif;
+	font-size: 1em;
 	color: rgb(212, 201, 190);
 }
 body {
