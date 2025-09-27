@@ -1,13 +1,13 @@
 h1, h2, h3 {
 	 font-family: "Lustria", serif;
-	color: rgb(105, 111, 199);
+	color: rgb(242, 174, 187);
 }
 p, ul, ol {
 	 font-family: "Lato", sans-serif;
-	color: rgb(167, 170, 225);
+	color: rgb(245, 211, 196);
 }
 body {
-	background-color: rgb(245, 211, 196);
+	background-color: rgb(167, 170, 225);
 	padding: 0 20px 20px 20 px;
 	margin: 0;
 }
