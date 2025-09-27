@@ -1,7 +1,7 @@
 h1, h2, h3 {
 	 font-family: "Lustria", serif;
 	color: rgb(241, 239, 236);
-	border-bottom: 2px solid rgb(137, 138, 196);
+	border-bottom: 2px solid rgb(192, 201, 238);
 	padding-top: 10px;
 	padding-bottom: 5px;
 	  margin: 10px 30px;
@@ -20,5 +20,5 @@ body {
 }
 html {
 	padding-top: 25px; 
-	background-color: rgb(241, 239, 236);
+	background-color:rgb(255, 242, 224);
 }
