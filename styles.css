@@ -13,7 +13,12 @@ p, ul, ol {
 	  margin: 10px 30px;
 }
 body {
+	background-color: rgb(212, 201, 190); 
+	 width: 80%;
+  padding: 20px;
+  margin: 0 auto;
+}
+html {
+	padding-top: 25px; 
 	background-color: rgb(255, 242, 224);
-	padding: 0 20px 20px 20 px;
-	margin: 0;
 }
