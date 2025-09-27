@@ -1,6 +1,13 @@
 h1, h2, h3 {
 	 font-family: "Lustria", serif;
 }
-p, ul, ol, {
+p {
 	 font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+ul, ol {
+	  font-family: "Lato", sans-serif;
+  font-weight: 100;
+  font-style: italic;
 }
