@@ -1,13 +1,13 @@
 h1, h2, h3 {
 	 font-family: "Lustria", serif;
+	color: rgb(105, 111, 199);
 }
-p {
+p, ul, ol {
 	 font-family: "Lato", sans-serif;
-  font-weight: 100;
-  font-style: normal;
+	color: rgb(167, 170, 225);
 }
-ul, ol {
-	  font-family: "Lato", sans-serif;
-  font-weight: 100;
-  font-style: italic;
+body {
+	background-color: rgb(245, 211, 196);
+	padding: 0 20px 20px 20 px;
+	margin: 0;
 }
