@@ -1,0 +1,46 @@
+h1 {
+	 font-family: "Playfair Display", serif;
+	color: rgb(140, 16, 7);
+	border-bottom: 2px solid rgb(140, 16, 7);
+	padding-top: 10px;
+	padding-bottom: 5px;
+	margin: 10px 30px;
+	 text-align: center;
+}
+
+h2, h3 {
+ font-family: "Playfair Display", serif;
+ color: rgb(57, 62, 70);
+	padding-top: 10px;
+	padding-bottom: 5px;
+	margin: 10px 30px;
+	text-align: center;
+}
+
+
+body {
+	background-color: rgb(255, 240, 196); 
+	background-image:url("images/paper4.jpg");
+	 width: 80%;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+html {
+	padding-top: 25px; 
+	background-color: rgb(102, 11, 5);
+}
+
+p {
+  font-family: "Alice", serif;
+ font-size: 1em;
+ color: rgb(81, 29, 67);
+ margin: 10px 30px;	
+ text-align: center;
+}
+ul{
+	 font-family: "Alice", serif;
+ font-size: 1em;
+ color: rgb(81, 29, 67);
+ margin: 10px 30px;	
+}
