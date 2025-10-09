@@ -21,7 +21,7 @@ p {
   padding-bottom: 5px;
     font-family: "Syne", sans-serif;
     font-size: 1.1em;
-    word-break: break-all;
+  text-wrap: balance; 
 }
 .Summary {
 text-align: center;
