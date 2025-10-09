@@ -1,0 +1,128 @@
+html {
+    padding-top: 25px;
+    background-color: ;
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    background-image: url(images/blue-bg.jpg);
+     }
+
+body {
+     width: 80%;
+  padding: 20px;
+  margin: 0 auto;
+  background-color: rgb(187, 220, 229) ;
+}
+p {
+  line-height: 1.6;
+  color: rgb(242, 242, 242); 
+  padding-bottom: 5px;
+    font-family: "Syne", sans-serif;
+    font-size: 1.1em;
+}
+.Summary {
+text-align: center;
+}
+h1 {
+color: rgb(100, 127, 188);
+border-bottom: 2px solid rgb(100, 127, 188);
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin: 10px 30px;
+     font-family: "BBH Sans Bartle", sans-serif;
+     font-size: 2.5em;
+     text-align: center;
+}
+
+h2 {
+color: rgb(145, 173, 200);
+text-align: center;
+padding-top: 10px;
+    padding-bottom: 5px;
+    margin: 10px 30px;
+     font-family: "Pacifico", cursive;
+     font-size: 2.5em;
+}
+
+h3 {
+color: rgb(145, 173, 200);
+padding-top: 10px;
+padding-bottom: 5px;
+margin: 10px 30px;
+  font-family: "Pacifico", cursive;
+  font-size: 1.6em;
+}
+.Red-hat {
+    background: url(images/Red_Hat.png) no-repeat;
+    background-size: 100px 50px;
+   margin-left: 10px;
+}
+.White-hat {
+    background: url(images/White_Hat.png) no-repeat;
+    background-size: 100px 50px;
+   margin-left: 10px;
+}
+.Green-hat {
+    background: url(images/Green_Hat.png) no-repeat;
+    background-size: 100px 50px;
+   margin-left: 10px;
+}
+.Blue-hat {
+    background: url(images/Blue_Hat.png) no-repeat;
+    background-size: 100px 50px;
+   margin-left: 10px;
+}
+.Black-hat {
+    background: url(images/Black_Hat.png) no-repeat;
+    background-size: 100px 50px;
+   margin-left: 10px;
+}
+
+.Yellow-hat {
+    background: url(images/Yellow_Hat.png) no-repeat;
+    background-size: 100px 50px;
+   margin-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
