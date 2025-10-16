@@ -1,0 +1,93 @@
+/* arsenal-sc-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Arsenal SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/arsenal-sc-v1-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* arsenal-sc-700 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Arsenal SC';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/arsenal-sc-v1-latin-700.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* carlito-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Carlito';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/carlito-v4-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+h1, h2 {
+  font-family:  'Arsenal SC';
+    font-style: normal;
+  font-weight: 400;
+  color: black;
+  text-align: center;
+  margin-bottom: 20px;
+  border-bottom: 2px dotted black;
+  padding-bottom: 5px;
+}
+h3 {
+  font-family:  'Arsenal SC';
+    font-style: normal;
+  font-weight: 400;
+  color: black;
+  text-align: center;
+  margin-bottom: 20px;
+  padding-bottom: 5px;
+}
+
+p, a, ul {
+  font-family: 'Carlito';
+    font-style: normal;
+  font-weight: 400;
+  color: black;
+  text-align: left;
+  padding: 20px;
+  margin: 5px;
+}
+
+html {
+   padding-top: 25px;
+    margin: 0;
+    border: 0;
+    vertical-align: baseline; 
+  background-color: rgb(102, 34, 34);
+  background-image: url(images/red2.jpg);
+ height: 100%;
+ margin: 0;
+ padding: 0;
+}
+
+body {
+background-color: rgb(132, 42, 59);
+   width: 80%;
+  padding: 20px;
+  margin: 0 auto;
+  border: 1.5px dotted black; 
+ border-top: 20px solid black;
+ border-radius: 10px;
+ line-height: 1.2;
+}
+
+aside {
+  float: right;
+    background-color: rgb(255, 247, 221);  
+    box-sizing: border-box;
+    display: block;
+     width: 30%;
+ margin: 10px;
+ padding: 10px 20px; 
+ border: 1px dotted black; 
+ border-top: 20px solid ;
+ border-radius: 10px;
+ box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+ margin-top: 0;
+ padding: 0;
+}
