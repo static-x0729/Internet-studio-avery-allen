@@ -13,6 +13,7 @@ p, ul, ol {
 	color: rgb(73, 61, 158);
 	  margin: 10px 30px;
 	text-align: center;
+	list-style-position: inside;
 }
 body {
 	background-color: rgb(162, 170, 219); 
