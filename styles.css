@@ -5,18 +5,22 @@ h1, h2, h3 {
 	padding-top: 10px;
 	padding-bottom: 5px;
 	  margin: 10px 30px;
+	text-align: center;
 }
 p, ul, ol {
 	 font-family: "Lato", Arial, sans-serif;
 	font-size: 1em;
 	color: rgb(73, 61, 158);
 	  margin: 10px 30px;
+	text-align: center;
 }
 body {
 	background-color: rgb(162, 170, 219); 
 	 width: 80%;
   padding: 20px;
   margin: 0 auto;
+	 border-top: 20px;
+ border-radius: 5rem 10px;
 }
 html {
 	padding-top: 25px; 
