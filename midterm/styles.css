@@ -1,0 +1,213 @@
+/* bebas-neue-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/bebas-neue-v16-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* lato-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/lato-v25-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* lato-italic - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/lato-v25-latin-italic.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+/* lato-900 - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: url('fonts/lato-v25-latin-900.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+h1, h2, h3 {
+font-family: 'Bebas Neue';
+  font-style: normal;
+  letter-spacing: 1px;
+}
+
+body, p {
+ font-family: 'Lato', sans-serif;
+  font-style: normal;
+
+}
+
+.navbar ul {
+  list-style-type: none; 
+  background-color: #8C1007;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;             
+  justify-content: center;    
+  align-items: center;
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  
+}
+
+.navbar a {
+color: white;
+text-decoration: none;
+padding: 15px;
+display: block;
+text-align: center;
+}
+
+.navbar a:hover {
+    background-color: black;
+}
+
+.navbar li {
+    float: left;
+}
+
+body {
+    margin: 0; 
+    padding: 0; 
+    text-align: center;
+}
+
+main p {
+    margin-left: 200px;
+    margin-right: 200px;
+    text-wrap: wrap;
+    text-align: justify;
+}
+
+ header {
+    height: 400px; 
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+header img {
+      object-fit: cover;
+      display: block;
+      width: 100%;
+      height: 100%;
+}
+
+
+  figure.centered-image {
+  width: fit-content;
+  margin: 20px auto;
+}
+
+.centered-image {
+  text-align: center;      
+  margin: 20px auto;       
+  display: block;         
+}
+
+.cta-buttons {
+  display: flex;
+  justify-content: center; 
+  gap: 15px; 
+  margin: 20px 0;
+}
+
+.cta-btn {
+  background-color: #8C1007; 
+  color: white;
+  text-decoration: none;
+  padding: 16px 35px;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1.2rem; 
+  transition: background-color 0.3s, transform 0.2s;
+}
+
+.cta-btn:hover {
+  background-color: #347433;
+  transform: scale(1.5);
+}
+
+html {
+    line-height: 1.5;
+    text-align: justify\;
+}
+
+html {
+    background-color: #F5F5F5;
+}
+
+footer {
+  border-top: 4px;
+  padding: 10px;
+  text-align: center;
+  background-color: #84994F; 
+  color: white;
+}
+
+ img {
+   width: 700px;
+   height: 500px;
+ }
+
+
+    .contact-container {
+      max-width: 600px;
+      background-color: white;
+      margin: 30px auto;
+      padding: 25px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+
+    form {
+      display: flex;
+      flex-direction: column;
+      gap: 15px;
+    }
+
+    label {
+      font-weight: bold;
+      color: #4B5320;
+      margin-bottom: 5px;
+    }
+
+    input, textarea {
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 1rem;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    textarea {
+      resize: vertical;
+      height: 120px;
+    }
+
+    button {
+      background-color: #8C1007;
+      color: white;
+      border: none;
+      padding: 12px;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s, transform 0.2s;
+    }
+
+    button:hover {
+      background-color: black;
+      transform: scale(1.05);
+    }
